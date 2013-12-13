@@ -1,4 +1,4 @@
 equipos
 =======
 
-Toda la gente épica de Comunidad Mejorando.la
+El próximo prometo dejar de enviar SPAM. =)
