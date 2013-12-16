@@ -1,11 +1,6 @@
-equipos
+Equipos
 =======
 
+Toda la gente épica de Comunidad Mejorando.la
 
-
-#ElBarto
-=======
-
-
-El próximo prometo dejar de enviar SPAM. =)
-
+* ``/* Favor no modificar esto *\``
